@@ -1,7 +1,7 @@
 # Monitor
 Monitor middleware for [Fiber](https://github.com/gofiber/fiber) that reports server metrics, inspired by [express-status-monitor](https://github.com/RafalWilinski/express-status-monitor)
 
-|:warning:Warning: Monitor is still in beta, API might change in the future!|
+:warning: **Warning:** Monitor is still in beta, API might change in the future!
 
 ![](https://i.imgur.com/4NfRCDm.gif)
 
